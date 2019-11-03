@@ -1,12 +1,12 @@
 import React from 'react';
-import AddressPicker from './components/react-hooks-2-level-address-picker';
+import UseCustomHooks from './components/react-hooks-use-customer-hooks';
 import './App.css';
 
 function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <AddressPicker/>
+                <UseCustomHooks />
             </header>
         </div>
     );
